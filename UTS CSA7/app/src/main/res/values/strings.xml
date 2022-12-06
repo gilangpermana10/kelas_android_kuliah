@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">List Dewa Aesir</string>
+
+    <string name="name_aesir">Gilang Permana</string>
+    <string name="name_aesir2">Thor</string>
+    <string name="name_aesir3">Hela</string>
+    <string name="name_aesir4">Loki</string>
+    <string name="name_aesir5">Kratos</string>
+    <string name="name_aesir6">Odin the allfather</string>
+    <string name="name_aesir7">Heimdall</string>
+    <string name="name_aesir8">Valkrie</string>
+
+    <string name="news_a">Yang ini bukan dewa hanya manusia biasa dari sukabumi jawa barat gak bisa apa-apa cuma jadi beban doang
+    </string>
+
+    <string name="news_b">Thor sang dewa petir dengan senjatanya mjolnir
+    </string>
+
+    <string name="news_c">Hela sang dewa kematian/kehancuran
+    </string>
+
+    <string name="news_d">Loki sang dewa kejahilan
+    </string>
+
+    <string name="news_e">Yang ini bukan dewa aesir, yang ini beda lagi nihhh, ini dewa dari game god of war series, dewa perang diaa
+    </string>
+
+    <string name="news_f">Odin the alfather ayah dari thor dan raja dari dewa aesir
+    </string>
+
+    <string name="news_g">heimdall dewa yang dapat melihat segala sesuatu di aesir atau 9 realm
+    </string>
+
+    <string name="news_h">Valkrie ini prajurit
+    </string>
+
+</resources>
